@@ -41,7 +41,8 @@ Colorado Board of Elections has assigned our team with the task of performing an
     - Denver: 82.8% (306,055)
     - Arapahoe: 6.7% (24,801)
     ----------------------------------
-link to election results file: 
+
+Please see *election_results.txt* in the *analysis* folder. 
     
  
 ## Election-Audit Summary
@@ -57,4 +58,4 @@ county_vote_percentage = float(county_vote)/ float(total_votes) * 100
   2. Use a master list to cross reference county names from the election_results.csv file to confirm there are no errors in the data.
   3. Adapt code for use with city elections.
 
-link to Python code: <PyPoll_Challenge.py>
+Please see *PyPoll_Challenge.py* for code.
