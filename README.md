@@ -57,3 +57,4 @@ county_vote_percentage = float(county_vote)/ float(total_votes) * 100
   2. Use a master list to cross reference county names from the election_results.csv file to confirm there are no errors in the data.
   3. Adapt code for use with city elections.
 
+link to Python code: <PyPoll_Challenge.py>
